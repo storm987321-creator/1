@@ -1,0 +1,6 @@
+{
+  "name": "Game Club PS Timer",
+  "description": "PlayStation Game Club boshqaruv paneli va real vaqtli timer ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
